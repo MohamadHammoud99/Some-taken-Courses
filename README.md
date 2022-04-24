@@ -1,4 +1,4 @@
-# Some-Courses-taken
+# Some-taken-Courses
 Some Topic of some taken courses (description)
 
 - Control Approaches :
